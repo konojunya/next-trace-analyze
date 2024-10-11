@@ -1,0 +1,14 @@
+{
+  "name": "next-trace-analyze",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "event-stream": "^4.0.1"
+  }
+}
